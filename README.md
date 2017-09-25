@@ -1,5 +1,7 @@
 # Info From Meetup:
 
+https://www.meetup.com/Boston-R-Bioconductor-for-genomics/events/240111902
+
 ## R/Bioconductor for single cell RNAseq data analysis
 
 Date: Friday September 29th
@@ -14,4 +16,4 @@ Bio: Jean Fan is a PhD Candidate in Bioinformatics and Integrative Genomics at H
 
 # About this repo
 
-I will be demoing PAGODA from the `scde` package and also from the new [`PAGODA2` package](https://github.com/hms-dbmi/pagoda2) using data from [Camp et al](http://www.pnas.org/content/112/51/15672). Data has been cleaned and provided to you in the `data/` directory. Code to be demo-ed provided in the `R/` folder.
+I will be demoing PAGODA from the `scde` package and also from the new [`PAGODA2` package](https://github.com/hms-dbmi/pagoda2) using data from [Camp et al](http://www.pnas.org/content/112/51/15672). Data has been cleaned and provided to you in the `data/` directory. Code to be demo-ed provided in the `R/` folder. Slides in the `docs/` folder.
